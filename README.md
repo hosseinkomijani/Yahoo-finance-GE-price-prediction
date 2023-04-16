@@ -1,9 +1,11 @@
 # Yahoo-finance-GE-price-prediction
 
 General Electric Company (GE) stock prediction using deep LSTM neural network.
+
 Based on time series forcasting.
 
-#dataset: 
+#
+dataset: 
         
 https://finance.yahoo.com/quote/GE/history/
 
